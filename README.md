@@ -1,27 +1,53 @@
-# python-genetic
 
-My take on genetic mutation to solve np-complete maximization problems. Originally intended for fantasy sports.
+> In computer science, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover and selection.
 
-The idea with evolution/genetic algorithms is that you
+This is *my* take of a genetic mutation algorithm I had to come up with to solve a real world 4x10^15 choices *np-complete* maximization problem.
 
- 1. take a gene pool, and create an initial population from the genes.
- 1. select the "most fit" from the population and call them "parents".
- 1. breed/combine/cross the parents by exchanging elements between them, usually at random, to create "children", throw in some random genes from the gene pool every so often
- 1. take the "most fit" of the children and call them "parents"
- 1. go to step 3
- 
-After many generations of this, the resulting population will typically be pretty "fit"
+The the algorithm is pretty straitforward with a couple caveats, but first let's understand the 2 classes.
 
+### Evolvables
 
-# Background
+`class Evolvable:` - AbstractBaseClass that represents: something that can "evolve", or a particular state/solution to a problem
 
-I was working on creating an algorithm to try and make $ playing fantasy sports.
+An evolvable has 4 pieces of information:
+ 1. `genes` which is our solution representation
+ 2. `can_survive` a True/False value of this evolvable is a valid solution or not
+ 3. `fitness_level` a number that tells us how good of a solution this is
+ 4. `unique` some hashable representation to uniquely identify this solution (maybe a serialization of the genes?) it could be anything
 
-After making some predictions about each player's performance, I still needed to combine the individual players to create a team that would perform well.
+### Evolve
 
-Initially I tried iterating through every combination of players, but the algorithm was taking a while to complete so I did some math
-and realized that there was over 4 quadrillion combinations of players.
+`class Evolve:` - Class that takes some kind of Evolvable and simulates the "natural selection" process creating countless generations of evolvable instances. The goal is that over enough generations of natural selection, that the final solutions/evolvables are the right ones.
 
-After doing some estimations, I realized my algorithm on a single-thread would take days-weeks to complete, unacceptable!!
+The important pieces of the Evolve class:
+ - `gene_pool` all the different genes that we can use when creating Evolvable instances.
+ - `best` this is a list of the best Evolvables throughout the generations
+ - `population` the current generation of evolvables
+ - `cross_over` a function that takes 2 or more evolvable instances (parents) and creates new evolvables from them (children).
+ - `mutate` a function that takes an evolvable and introduces switches 1 or more of the evolvable's genes with genes from the gene pool.
 
-This new approach with genetic mutation was able to calculate the best combination of players for me in less than a minute :)
+___
+
+### Chess Example
+
+We could represent the next move in a game of chess as an Evolvable:
+ 1. the arrangement of pieces would be the `genes`
+ 2. `can_survive` - if the next move is valid or not
+ 3. `fitness_level` 1.0 if we get them in checkmate, 0.3 if we lose position, 0.0 if we move our queen into danger for no reason
+ 4. `unique` could be the arrangement of pieces
+
+This is just a way to represent 1 potential move in a game of chess as an Evolvable, but if we think about it, we could actually represent an entire game as a series of Evolvables. One evolvable (move) giving rise to the next move (evolvable) and so on, until eventually the game is over.
+
+___
+
+#### Background
+
+I had a notion that I could make a lot of *$$ money $$* by creating an algorithm that could win at fantasy sports (online fantasy sport gambling was just made legal in NY, I was pretty excited)
+
+After making individual player predictions, I needed to form full teams from the players.
+
+Depending on the night, there could be up to 4 quadrillion (4x10^15) possible combinations of teams.
+
+After doing some estimations, looking at all these combinations would take days-weeks to complete, unacceptable!!
+
+I came up with this genetic mutation algorithm and was able to calculate the best combination of players in less than a minute :)

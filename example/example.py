@@ -1,4 +1,7 @@
-from .evolvable import Evolvable
+
+# Sloppily add genetic classes to our path so we can import it
+sys.path.insert(0, os.path.abspath('../genetic'))
+from genetic import Evolvable
 
 
 class EvolvableLineup(Evolvable):
