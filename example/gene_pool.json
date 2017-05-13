@@ -1,0 +1,4178 @@
+{
+    "c": [
+        {
+            "average_points": 46.792,
+            "name": "Hassan Whiteside",
+            "cost": 9300
+        },
+        {
+            "average_points": 40.333,
+            "name": "Karl-Anthony Towns",
+            "cost": 8000
+        },
+        {
+            "average_points": 38.135,
+            "name": "Andre Drummond",
+            "cost": 7800
+        },
+        {
+            "average_points": 40.385,
+            "name": "Draymond Green",
+            "cost": 7700
+        },
+        {
+            "average_points": 32.563,
+            "name": "LaMarcus Aldridge",
+            "cost": 6700
+        },
+        {
+            "average_points": 35.313,
+            "name": "Al Horford",
+            "cost": 6500
+        },
+        {
+            "average_points": 31.357,
+            "name": "Myles Turner",
+            "cost": 6500
+        },
+        {
+            "average_points": 34.063,
+            "name": "Marc Gasol",
+            "cost": 6400
+        },
+        {
+            "average_points": 33.556,
+            "name": "Joel Embiid",
+            "cost": 6400
+        },
+        {
+            "average_points": 30.339,
+            "name": "DeAndre Jordan",
+            "cost": 6400
+        },
+        {
+            "average_points": 27.846,
+            "name": "Pau Gasol",
+            "cost": 6400
+        },
+        {
+            "average_points": 33.042,
+            "name": "Marcin Gortat",
+            "cost": 6100
+        },
+        {
+            "average_points": 27.404,
+            "name": "Clint Capela",
+            "cost": 5900
+        },
+        {
+            "average_points": 27.542,
+            "name": "Gorgui Dieng",
+            "cost": 5800
+        },
+        {
+            "average_points": 30.596,
+            "name": "Nikola Vucevic",
+            "cost": 5700
+        },
+        {
+            "average_points": 26.25,
+            "name": "Serge Ibaka",
+            "cost": 5600
+        },
+        {
+            "average_points": 30.386,
+            "name": "Jonas Valanciunas",
+            "cost": 5600
+        },
+        {
+            "average_points": 23.071,
+            "name": "Alex Len",
+            "cost": 5000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Nerlens Noel",
+            "cost": 5000
+        },
+        {
+            "average_points": 24.438,
+            "name": "Tyson Chandler",
+            "cost": 4700
+        },
+        {
+            "average_points": 18.583,
+            "name": "Jahlil Okafor",
+            "cost": 4400
+        },
+        {
+            "average_points": 19.729,
+            "name": "Bismack Biyombo",
+            "cost": 4100
+        },
+        {
+            "average_points": 17.25,
+            "name": "Kelly Olynyk",
+            "cost": 4000
+        },
+        {
+            "average_points": 22.75,
+            "name": "Cody Zeller",
+            "cost": 4000
+        },
+        {
+            "average_points": 9.646,
+            "name": "Cole Aldrich",
+            "cost": 3900
+        },
+        {
+            "average_points": 17.95,
+            "name": "Alan Williams",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.545,
+            "name": "Spencer Hawes",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.286,
+            "name": "Lucas Nogueira",
+            "cost": 3900
+        },
+        {
+            "average_points": 20.925,
+            "name": "Andrew Bogut",
+            "cost": 3900
+        },
+        {
+            "average_points": 24.364,
+            "name": "Greg Monroe",
+            "cost": 3800
+        },
+        {
+            "average_points": 12.054,
+            "name": "Aron Baynes",
+            "cost": 3800
+        },
+        {
+            "average_points": 17.411,
+            "name": "Marreese Speights",
+            "cost": 3800
+        },
+        {
+            "average_points": 14.955,
+            "name": "John Henson",
+            "cost": 3700
+        },
+        {
+            "average_points": 16.313,
+            "name": "Dwight Powell",
+            "cost": 3700
+        },
+        {
+            "average_points": 8.825,
+            "name": "Willie Reed",
+            "cost": 3600
+        },
+        {
+            "average_points": 13.773,
+            "name": "Dewayne Dedmon",
+            "cost": 3600
+        },
+        {
+            "average_points": 17.096,
+            "name": "Zaza Pachulia",
+            "cost": 3400
+        },
+        {
+            "average_points": 14.054,
+            "name": "Al Jefferson",
+            "cost": 3400
+        },
+        {
+            "average_points": 14.75,
+            "name": "Montrezl Harrell",
+            "cost": 3300
+        },
+        {
+            "average_points": 16.386,
+            "name": "Nene",
+            "cost": 3100
+        },
+        {
+            "average_points": 13.464,
+            "name": "Roy Hibbert",
+            "cost": 3100
+        },
+        {
+            "average_points": 9.604,
+            "name": "Miles Plumlee",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.792,
+            "name": "Boban Marjanovic",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Chinanu Onuaku",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Nikola Pekovic",
+            "cost": 3000
+        },
+        {
+            "average_points": 16.077,
+            "name": "Tyler Zeller",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.25,
+            "name": "Jason Smith",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Ian Mahinmi",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.75,
+            "name": "Daniel Ochefu",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.521,
+            "name": "Jarell Martin",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Brandan Wright",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.333,
+            "name": "Josh McRoberts",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.583,
+            "name": "Anderson Varejao",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.083,
+            "name": "JaVale McGee",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.85,
+            "name": "Kevin Seraphin",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Damian Jones",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.313,
+            "name": "Brandon Bass",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jared Sullinger",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.719,
+            "name": "Jakob Poeltl",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.75,
+            "name": "Diamond Stone",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.528,
+            "name": "Salah Mejri",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "AJ Hammons",
+            "cost": 3000
+        }
+    ],
+    "f": [
+        {
+            "average_points": 50.885,
+            "name": "Kevin Durant",
+            "cost": 9600
+        },
+        {
+            "average_points": 43.096,
+            "name": "Kawhi Leonard",
+            "cost": 8700
+        },
+        {
+            "average_points": 43.464,
+            "name": "Blake Griffin",
+            "cost": 8500
+        },
+        {
+            "average_points": 39.727,
+            "name": "Paul George",
+            "cost": 8000
+        },
+        {
+            "average_points": 40.385,
+            "name": "Draymond Green",
+            "cost": 7700
+        },
+        {
+            "average_points": 36.479,
+            "name": "Andrew Wiggins",
+            "cost": 7400
+        },
+        {
+            "average_points": 34.604,
+            "name": "Nicolas Batum",
+            "cost": 6700
+        },
+        {
+            "average_points": 32.563,
+            "name": "LaMarcus Aldridge",
+            "cost": 6700
+        },
+        {
+            "average_points": 31.357,
+            "name": "Myles Turner",
+            "cost": 6500
+        },
+        {
+            "average_points": 33.104,
+            "name": "Jabari Parker",
+            "cost": 6400
+        },
+        {
+            "average_points": 31.375,
+            "name": "Harrison Barnes",
+            "cost": 6400
+        },
+        {
+            "average_points": 28.018,
+            "name": "Tobias Harris",
+            "cost": 6300
+        },
+        {
+            "average_points": 33.042,
+            "name": "Otto Porter",
+            "cost": 6300
+        },
+        {
+            "average_points": 28.115,
+            "name": "Devin Booker",
+            "cost": 6200
+        },
+        {
+            "average_points": 28.846,
+            "name": "TJ Warren",
+            "cost": 5900
+        },
+        {
+            "average_points": 27.542,
+            "name": "Gorgui Dieng",
+            "cost": 5800
+        },
+        {
+            "average_points": 26.25,
+            "name": "Serge Ibaka",
+            "cost": 5600
+        },
+        {
+            "average_points": 26.958,
+            "name": "Markieff Morris",
+            "cost": 5600
+        },
+        {
+            "average_points": 27.058,
+            "name": "Trevor Ariza",
+            "cost": 5500
+        },
+        {
+            "average_points": 27.55,
+            "name": "Jae Crowder",
+            "cost": 5500
+        },
+        {
+            "average_points": 26.778,
+            "name": "Justise Winslow",
+            "cost": 5500
+        },
+        {
+            "average_points": 25.661,
+            "name": "Thaddeus Young",
+            "cost": 5500
+        },
+        {
+            "average_points": 24.875,
+            "name": "Marcus Smart",
+            "cost": 5300
+        },
+        {
+            "average_points": 21.25,
+            "name": "Josh Richardson",
+            "cost": 5300
+        },
+        {
+            "average_points": 26.0,
+            "name": "Dirk Nowitzki",
+            "cost": 5300
+        },
+        {
+            "average_points": 25.554,
+            "name": "Marcus Morris",
+            "cost": 5200
+        },
+        {
+            "average_points": 25.386,
+            "name": "Michael Kidd-Gilchrist",
+            "cost": 5200
+        },
+        {
+            "average_points": 26.615,
+            "name": "Zach Randolph",
+            "cost": 5000
+        },
+        {
+            "average_points": 21.923,
+            "name": "CJ Miles",
+            "cost": 5000
+        },
+        {
+            "average_points": 23.019,
+            "name": "Aaron Gordon",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.788,
+            "name": "Ryan Anderson",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.821,
+            "name": "Jon Leuer",
+            "cost": 4900
+        },
+        {
+            "average_points": 23.896,
+            "name": "Marvin Williams",
+            "cost": 4700
+        },
+        {
+            "average_points": 22.865,
+            "name": "Dario Saric",
+            "cost": 4700
+        },
+        {
+            "average_points": 20.708,
+            "name": "James Johnson",
+            "cost": 4500
+        },
+        {
+            "average_points": 21.9,
+            "name": "Frank Kaminsky",
+            "cost": 4400
+        },
+        {
+            "average_points": 18.583,
+            "name": "Jahlil Okafor",
+            "cost": 4400
+        },
+        {
+            "average_points": 19.635,
+            "name": "Robert Covington",
+            "cost": 4300
+        },
+        {
+            "average_points": 15.357,
+            "name": "PJ Tucker",
+            "cost": 4100
+        },
+        {
+            "average_points": 19.827,
+            "name": "Ersan Ilyasova",
+            "cost": 4100
+        },
+        {
+            "average_points": 17.25,
+            "name": "Kelly Olynyk",
+            "cost": 4000
+        },
+        {
+            "average_points": 19.125,
+            "name": "Jared Dudley",
+            "cost": 4000
+        },
+        {
+            "average_points": 20.519,
+            "name": "Vince Carter",
+            "cost": 4000
+        },
+        {
+            "average_points": 18.288,
+            "name": "Amir Johnson",
+            "cost": 3900
+        },
+        {
+            "average_points": 20.692,
+            "name": "James Ennis",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.545,
+            "name": "Spencer Hawes",
+            "cost": 3900
+        },
+        {
+            "average_points": 19.423,
+            "name": "JaMychal Green",
+            "cost": 3800
+        },
+        {
+            "average_points": 16.938,
+            "name": "Terrence Ross",
+            "cost": 3800
+        },
+        {
+            "average_points": 17.411,
+            "name": "Marreese Speights",
+            "cost": 3800
+        },
+        {
+            "average_points": 15.019,
+            "name": "David Lee",
+            "cost": 3800
+        },
+        {
+            "average_points": 13.75,
+            "name": "Chandler Parsons",
+            "cost": 3700
+        },
+        {
+            "average_points": 10.083,
+            "name": "Glenn Robinson",
+            "cost": 3700
+        },
+        {
+            "average_points": 19.192,
+            "name": "Patrick Patterson",
+            "cost": 3700
+        },
+        {
+            "average_points": 16.313,
+            "name": "Dwight Powell",
+            "cost": 3700
+        },
+        {
+            "average_points": 17.538,
+            "name": "Andre Iguodala",
+            "cost": 3600
+        },
+        {
+            "average_points": 17.091,
+            "name": "Tony Snell",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.205,
+            "name": "DeMarre Carroll",
+            "cost": 3500
+        },
+        {
+            "average_points": 15.231,
+            "name": "Jeff Green",
+            "cost": 3400
+        },
+        {
+            "average_points": 15.875,
+            "name": "Richaun Holmes",
+            "cost": 3400
+        },
+        {
+            "average_points": 11.636,
+            "name": "Norman Powell",
+            "cost": 3400
+        },
+        {
+            "average_points": 17.167,
+            "name": "Justin Anderson",
+            "cost": 3400
+        },
+        {
+            "average_points": 14.75,
+            "name": "Montrezl Harrell",
+            "cost": 3300
+        },
+        {
+            "average_points": 13.654,
+            "name": "Pascal Siakam",
+            "cost": 3300
+        },
+        {
+            "average_points": 14.729,
+            "name": "Nemanja Bjelica",
+            "cost": 3200
+        },
+        {
+            "average_points": 13.583,
+            "name": "Michael Beasley",
+            "cost": 3100
+        },
+        {
+            "average_points": 10.75,
+            "name": "Derrick Williams",
+            "cost": 3100
+        },
+        {
+            "average_points": 10.833,
+            "name": "Mario Hezonja",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Steve Novak",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.643,
+            "name": "Damjan Rudez",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.625,
+            "name": "Arinze Onuaku",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.604,
+            "name": "Mirza Teletovic",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "Stephen Zimmerman",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.688,
+            "name": "Thon Maker",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.788,
+            "name": "Corey Brewer",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.167,
+            "name": "Michael Gbinije",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.577,
+            "name": "Sam Dekker",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.808,
+            "name": "Stanley Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.5,
+            "name": "Kyle Wiltjer",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.2,
+            "name": "Henry Ellenson",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.1,
+            "name": "Brandon Rush",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.556,
+            "name": "Shabazz Muhammad",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.385,
+            "name": "Jaylen Brown",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.25,
+            "name": "Jordan Hill",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.635,
+            "name": "Jonas Jerebko",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.792,
+            "name": "Adreian Payne",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.0,
+            "name": "Jordan Mickey",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.068,
+            "name": "Kelly Oubre",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Derrick Jones, Jr.",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.25,
+            "name": "Jason Smith",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.361,
+            "name": "Andrew Nicholson",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.5,
+            "name": "Marquese Chriss",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.3,
+            "name": "Dragan Bender",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.833,
+            "name": "Jeremy Lamb",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.917,
+            "name": "Treveon Graham",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.521,
+            "name": "Jarell Martin",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.5,
+            "name": "Christian Wood",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.583,
+            "name": "Deyonta Davis",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.558,
+            "name": "Hollis Thompson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Ben Simmons",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Chris Bosh",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "Udonis Haslem",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.563,
+            "name": "Luke Babbitt",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.219,
+            "name": "Patrick McCaw",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.944,
+            "name": "Georges Niang",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.731,
+            "name": "David West",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.732,
+            "name": "Lavoy Allen",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.15,
+            "name": "James Michael McAdoo",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.75,
+            "name": "Rakeem Christmas",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.364,
+            "name": "Kevon Looney",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.0,
+            "name": "Paul Pierce",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.75,
+            "name": "Alan Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.536,
+            "name": "Luc Mbah a Moute",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.0,
+            "name": "Wesley Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Bruno Caboclo",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.313,
+            "name": "Brandon Bass",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Brice Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.583,
+            "name": "Kyle Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.15,
+            "name": "Davis Bertans",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.364,
+            "name": "Dorian Finney-Smith",
+            "cost": 3000
+        }
+    ],
+    "g": [
+        {
+            "average_points": 60.904,
+            "name": "James Harden",
+            "cost": 11900
+        },
+        {
+            "average_points": 43.788,
+            "name": "Stephen Curry",
+            "cost": 9200
+        },
+        {
+            "average_points": 45.05,
+            "name": "John Wall",
+            "cost": 9000
+        },
+        {
+            "average_points": 47.0,
+            "name": "Giannis Antetokounmpo",
+            "cost": 8800
+        },
+        {
+            "average_points": 44.375,
+            "name": "Chris Paul",
+            "cost": 8600
+        },
+        {
+            "average_points": 44.942,
+            "name": "DeMar DeRozan",
+            "cost": 8400
+        },
+        {
+            "average_points": 43.604,
+            "name": "Kemba Walker",
+            "cost": 8200
+        },
+        {
+            "average_points": 41.481,
+            "name": "Kyle Lowry",
+            "cost": 8100
+        },
+        {
+            "average_points": 41.615,
+            "name": "Isaiah Thomas",
+            "cost": 7900
+        },
+        {
+            "average_points": 37.038,
+            "name": "Avery Bradley",
+            "cost": 7000
+        },
+        {
+            "average_points": 34.161,
+            "name": "Jeff Teague",
+            "cost": 6900
+        },
+        {
+            "average_points": 32.911,
+            "name": "Eric Bledsoe",
+            "cost": 6800
+        },
+        {
+            "average_points": 34.604,
+            "name": "Nicolas Batum",
+            "cost": 6700
+        },
+        {
+            "average_points": 32.083,
+            "name": "Goran Dragic",
+            "cost": 6600
+        },
+        {
+            "average_points": 35.667,
+            "name": "Mike Conley",
+            "cost": 6400
+        },
+        {
+            "average_points": 28.115,
+            "name": "Devin Booker",
+            "cost": 6200
+        },
+        {
+            "average_points": 29.462,
+            "name": "Klay Thompson",
+            "cost": 6200
+        },
+        {
+            "average_points": 0.0,
+            "name": "Reggie Jackson",
+            "cost": 6000
+        },
+        {
+            "average_points": 28.611,
+            "name": "Bradley Beal",
+            "cost": 6000
+        },
+        {
+            "average_points": 29.523,
+            "name": "Zach LaVine",
+            "cost": 5900
+        },
+        {
+            "average_points": 23.75,
+            "name": "Ricky Rubio",
+            "cost": 5700
+        },
+        {
+            "average_points": 25.518,
+            "name": "Ish Smith",
+            "cost": 5600
+        },
+        {
+            "average_points": 25.661,
+            "name": "Monta Ellis",
+            "cost": 5600
+        },
+        {
+            "average_points": 26.519,
+            "name": "Evan Fournier",
+            "cost": 5500
+        },
+        {
+            "average_points": 26.712,
+            "name": "Elfrid Payton",
+            "cost": 5400
+        },
+        {
+            "average_points": 19.354,
+            "name": "Seth Curry",
+            "cost": 5400
+        },
+        {
+            "average_points": 23.393,
+            "name": "Kentavious Caldwell-Pope",
+            "cost": 5300
+        },
+        {
+            "average_points": 24.875,
+            "name": "Marcus Smart",
+            "cost": 5300
+        },
+        {
+            "average_points": 21.25,
+            "name": "Josh Richardson",
+            "cost": 5300
+        },
+        {
+            "average_points": 27.75,
+            "name": "Eric Gordon",
+            "cost": 5100
+        },
+        {
+            "average_points": 25.479,
+            "name": "Dion Waiters",
+            "cost": 5100
+        },
+        {
+            "average_points": 25.125,
+            "name": "Tyler Johnson",
+            "cost": 5000
+        },
+        {
+            "average_points": 21.923,
+            "name": "CJ Miles",
+            "cost": 5000
+        },
+        {
+            "average_points": 30.361,
+            "name": "J.J. Barea",
+            "cost": 5000
+        },
+        {
+            "average_points": 22.179,
+            "name": "JJ Redick",
+            "cost": 4900
+        },
+        {
+            "average_points": 23.542,
+            "name": "Deron Williams",
+            "cost": 4900
+        },
+        {
+            "average_points": 24.942,
+            "name": "Sergio Rodriguez",
+            "cost": 4800
+        },
+        {
+            "average_points": 23.227,
+            "name": "Wesley Matthews",
+            "cost": 4800
+        },
+        {
+            "average_points": 21.893,
+            "name": "Brandon Knight",
+            "cost": 4700
+        },
+        {
+            "average_points": 20.028,
+            "name": "Tony Parker",
+            "cost": 4600
+        },
+        {
+            "average_points": 22.625,
+            "name": "Patrick Beverley",
+            "cost": 4500
+        },
+        {
+            "average_points": 22.563,
+            "name": "Matthew Dellavedova",
+            "cost": 4200
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jerryd Bayless",
+            "cost": 4000
+        },
+        {
+            "average_points": 18.8,
+            "name": "Danny Green",
+            "cost": 4000
+        },
+        {
+            "average_points": 20.692,
+            "name": "James Ennis",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.071,
+            "name": "Jamal Crawford",
+            "cost": 3900
+        },
+        {
+            "average_points": 12.521,
+            "name": "Tomas Satoransky",
+            "cost": 3800
+        },
+        {
+            "average_points": 16.938,
+            "name": "Terrence Ross",
+            "cost": 3800
+        },
+        {
+            "average_points": 13.333,
+            "name": "Ramon Sessions",
+            "cost": 3700
+        },
+        {
+            "average_points": 19.385,
+            "name": "Patty Mills",
+            "cost": 3700
+        },
+        {
+            "average_points": 31.0,
+            "name": "Jonathan Gibson",
+            "cost": 3700
+        },
+        {
+            "average_points": 18.646,
+            "name": "Marco Belinelli",
+            "cost": 3600
+        },
+        {
+            "average_points": 11.232,
+            "name": "Raymond Felton",
+            "cost": 3600
+        },
+        {
+            "average_points": 15.404,
+            "name": "D.J. Augustin",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.091,
+            "name": "Tony Snell",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.75,
+            "name": "Gerald Henderson",
+            "cost": 3500
+        },
+        {
+            "average_points": 16.25,
+            "name": "TJ McConnell",
+            "cost": 3400
+        },
+        {
+            "average_points": 16.519,
+            "name": "Nik Stauskas",
+            "cost": 3400
+        },
+        {
+            "average_points": 10.442,
+            "name": "Shaun Livingston",
+            "cost": 3400
+        },
+        {
+            "average_points": 13.385,
+            "name": "Cory Joseph",
+            "cost": 3400
+        },
+        {
+            "average_points": 11.636,
+            "name": "Norman Powell",
+            "cost": 3400
+        },
+        {
+            "average_points": 15.458,
+            "name": "Tony Allen",
+            "cost": 3300
+        },
+        {
+            "average_points": 14.25,
+            "name": "Austin Rivers",
+            "cost": 3300
+        },
+        {
+            "average_points": 16.313,
+            "name": "Manu Ginobili",
+            "cost": 3300
+        },
+        {
+            "average_points": 14.792,
+            "name": "Marcus Thornton",
+            "cost": 3200
+        },
+        {
+            "average_points": 16.167,
+            "name": "Andrew Harrison",
+            "cost": 3200
+        },
+        {
+            "average_points": 8.821,
+            "name": "Jason Terry",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.568,
+            "name": "CJ Watson",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.833,
+            "name": "Mario Hezonja",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jodie Meeks",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.833,
+            "name": "CJ Wilcox",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Khris Middleton",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.917,
+            "name": "Malcolm Brogdon",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.639,
+            "name": "Rashad Vaughn",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.667,
+            "name": "Bobby Brown",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.821,
+            "name": "Beno Udrih",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.229,
+            "name": "Tyler Ennis",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.875,
+            "name": "Reggie Bullock",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.55,
+            "name": "Darrun Hilliard",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.682,
+            "name": "KJ McDaniels",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.5,
+            "name": "John Lucas III",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.271,
+            "name": "Kris Dunn",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.75,
+            "name": "Demetrius Jackson",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.462,
+            "name": "Terry Rozier",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.972,
+            "name": "Tyus Jones",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.1,
+            "name": "Brandon Rush",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.556,
+            "name": "Shabazz Muhammad",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.3,
+            "name": "Gerald Green",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.167,
+            "name": "James Young",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.075,
+            "name": "Trey Burke",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.536,
+            "name": "Tyler Ulis",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.068,
+            "name": "Kelly Oubre",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.308,
+            "name": "Leandro Barbosa",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.625,
+            "name": "John Jenkins",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.542,
+            "name": "Sheldon McClellan",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.25,
+            "name": "Danuel House",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.25,
+            "name": "Brian Roberts",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.75,
+            "name": "Aaron Harrison",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.0,
+            "name": "Wade Baldwin",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.833,
+            "name": "Jeremy Lamb",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.167,
+            "name": "Troy Daniels",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.563,
+            "name": "Troy Williams",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.558,
+            "name": "Hollis Thompson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Wayne Ellington",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.341,
+            "name": "Rodney McGruder",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.667,
+            "name": "Timothe Luwawu-Cabarrot",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.688,
+            "name": "Rodney Stuckey",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.295,
+            "name": "Ian Clark",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.068,
+            "name": "Aaron Brooks",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.219,
+            "name": "Patrick McCaw",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.3,
+            "name": "Joe Young",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Fred VanVleet",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Delon Wright",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Devin Harris",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.469,
+            "name": "Nicolas Laprovittola",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.857,
+            "name": "Bryn Forbes",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.969,
+            "name": "Dejounte Murray",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.583,
+            "name": "Kyle Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.846,
+            "name": "Jonathon Simmons",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.7,
+            "name": "Nicolas Brussino",
+            "cost": 3000
+        }
+    ],
+    "pf": [
+        {
+            "average_points": 50.885,
+            "name": "Kevin Durant",
+            "cost": 9600
+        },
+        {
+            "average_points": 43.464,
+            "name": "Blake Griffin",
+            "cost": 8500
+        },
+        {
+            "average_points": 40.385,
+            "name": "Draymond Green",
+            "cost": 7700
+        },
+        {
+            "average_points": 32.563,
+            "name": "LaMarcus Aldridge",
+            "cost": 6700
+        },
+        {
+            "average_points": 31.357,
+            "name": "Myles Turner",
+            "cost": 6500
+        },
+        {
+            "average_points": 33.104,
+            "name": "Jabari Parker",
+            "cost": 6400
+        },
+        {
+            "average_points": 31.375,
+            "name": "Harrison Barnes",
+            "cost": 6400
+        },
+        {
+            "average_points": 28.018,
+            "name": "Tobias Harris",
+            "cost": 6300
+        },
+        {
+            "average_points": 27.542,
+            "name": "Gorgui Dieng",
+            "cost": 5800
+        },
+        {
+            "average_points": 26.25,
+            "name": "Serge Ibaka",
+            "cost": 5600
+        },
+        {
+            "average_points": 26.958,
+            "name": "Markieff Morris",
+            "cost": 5600
+        },
+        {
+            "average_points": 27.058,
+            "name": "Trevor Ariza",
+            "cost": 5500
+        },
+        {
+            "average_points": 25.661,
+            "name": "Thaddeus Young",
+            "cost": 5500
+        },
+        {
+            "average_points": 26.0,
+            "name": "Dirk Nowitzki",
+            "cost": 5300
+        },
+        {
+            "average_points": 26.615,
+            "name": "Zach Randolph",
+            "cost": 5000
+        },
+        {
+            "average_points": 23.019,
+            "name": "Aaron Gordon",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.788,
+            "name": "Ryan Anderson",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.821,
+            "name": "Jon Leuer",
+            "cost": 4900
+        },
+        {
+            "average_points": 23.896,
+            "name": "Marvin Williams",
+            "cost": 4700
+        },
+        {
+            "average_points": 22.865,
+            "name": "Dario Saric",
+            "cost": 4700
+        },
+        {
+            "average_points": 20.708,
+            "name": "James Johnson",
+            "cost": 4500
+        },
+        {
+            "average_points": 21.9,
+            "name": "Frank Kaminsky",
+            "cost": 4400
+        },
+        {
+            "average_points": 18.583,
+            "name": "Jahlil Okafor",
+            "cost": 4400
+        },
+        {
+            "average_points": 19.827,
+            "name": "Ersan Ilyasova",
+            "cost": 4100
+        },
+        {
+            "average_points": 17.25,
+            "name": "Kelly Olynyk",
+            "cost": 4000
+        },
+        {
+            "average_points": 19.125,
+            "name": "Jared Dudley",
+            "cost": 4000
+        },
+        {
+            "average_points": 18.288,
+            "name": "Amir Johnson",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.545,
+            "name": "Spencer Hawes",
+            "cost": 3900
+        },
+        {
+            "average_points": 19.423,
+            "name": "JaMychal Green",
+            "cost": 3800
+        },
+        {
+            "average_points": 17.411,
+            "name": "Marreese Speights",
+            "cost": 3800
+        },
+        {
+            "average_points": 15.019,
+            "name": "David Lee",
+            "cost": 3800
+        },
+        {
+            "average_points": 19.192,
+            "name": "Patrick Patterson",
+            "cost": 3700
+        },
+        {
+            "average_points": 16.313,
+            "name": "Dwight Powell",
+            "cost": 3700
+        },
+        {
+            "average_points": 17.205,
+            "name": "DeMarre Carroll",
+            "cost": 3500
+        },
+        {
+            "average_points": 15.231,
+            "name": "Jeff Green",
+            "cost": 3400
+        },
+        {
+            "average_points": 15.875,
+            "name": "Richaun Holmes",
+            "cost": 3400
+        },
+        {
+            "average_points": 14.75,
+            "name": "Montrezl Harrell",
+            "cost": 3300
+        },
+        {
+            "average_points": 13.654,
+            "name": "Pascal Siakam",
+            "cost": 3300
+        },
+        {
+            "average_points": 14.729,
+            "name": "Nemanja Bjelica",
+            "cost": 3200
+        },
+        {
+            "average_points": 13.583,
+            "name": "Michael Beasley",
+            "cost": 3100
+        },
+        {
+            "average_points": 10.75,
+            "name": "Derrick Williams",
+            "cost": 3100
+        },
+        {
+            "average_points": 1.625,
+            "name": "Arinze Onuaku",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.604,
+            "name": "Mirza Teletovic",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "Stephen Zimmerman",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.688,
+            "name": "Thon Maker",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.5,
+            "name": "Kyle Wiltjer",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.2,
+            "name": "Henry Ellenson",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.25,
+            "name": "Jordan Hill",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.635,
+            "name": "Jonas Jerebko",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.792,
+            "name": "Adreian Payne",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.0,
+            "name": "Jordan Mickey",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.25,
+            "name": "Jason Smith",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.361,
+            "name": "Andrew Nicholson",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.5,
+            "name": "Marquese Chriss",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.3,
+            "name": "Dragan Bender",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.521,
+            "name": "Jarell Martin",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.5,
+            "name": "Christian Wood",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.583,
+            "name": "Deyonta Davis",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Chris Bosh",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "Udonis Haslem",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.563,
+            "name": "Luke Babbitt",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.731,
+            "name": "David West",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.732,
+            "name": "Lavoy Allen",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.15,
+            "name": "James Michael McAdoo",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.75,
+            "name": "Rakeem Christmas",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.364,
+            "name": "Kevon Looney",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.313,
+            "name": "Brandon Bass",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Brice Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.15,
+            "name": "Davis Bertans",
+            "cost": 3000
+        }
+    ],
+    "pg": [
+        {
+            "average_points": 60.904,
+            "name": "James Harden",
+            "cost": 11900
+        },
+        {
+            "average_points": 43.788,
+            "name": "Stephen Curry",
+            "cost": 9200
+        },
+        {
+            "average_points": 45.05,
+            "name": "John Wall",
+            "cost": 9000
+        },
+        {
+            "average_points": 47.0,
+            "name": "Giannis Antetokounmpo",
+            "cost": 8800
+        },
+        {
+            "average_points": 44.375,
+            "name": "Chris Paul",
+            "cost": 8600
+        },
+        {
+            "average_points": 43.604,
+            "name": "Kemba Walker",
+            "cost": 8200
+        },
+        {
+            "average_points": 41.481,
+            "name": "Kyle Lowry",
+            "cost": 8100
+        },
+        {
+            "average_points": 41.615,
+            "name": "Isaiah Thomas",
+            "cost": 7900
+        },
+        {
+            "average_points": 34.161,
+            "name": "Jeff Teague",
+            "cost": 6900
+        },
+        {
+            "average_points": 32.911,
+            "name": "Eric Bledsoe",
+            "cost": 6800
+        },
+        {
+            "average_points": 32.083,
+            "name": "Goran Dragic",
+            "cost": 6600
+        },
+        {
+            "average_points": 35.667,
+            "name": "Mike Conley",
+            "cost": 6400
+        },
+        {
+            "average_points": 0.0,
+            "name": "Reggie Jackson",
+            "cost": 6000
+        },
+        {
+            "average_points": 23.75,
+            "name": "Ricky Rubio",
+            "cost": 5700
+        },
+        {
+            "average_points": 25.518,
+            "name": "Ish Smith",
+            "cost": 5600
+        },
+        {
+            "average_points": 26.712,
+            "name": "Elfrid Payton",
+            "cost": 5400
+        },
+        {
+            "average_points": 25.125,
+            "name": "Tyler Johnson",
+            "cost": 5000
+        },
+        {
+            "average_points": 30.361,
+            "name": "J.J. Barea",
+            "cost": 5000
+        },
+        {
+            "average_points": 23.542,
+            "name": "Deron Williams",
+            "cost": 4900
+        },
+        {
+            "average_points": 24.942,
+            "name": "Sergio Rodriguez",
+            "cost": 4800
+        },
+        {
+            "average_points": 21.893,
+            "name": "Brandon Knight",
+            "cost": 4700
+        },
+        {
+            "average_points": 20.028,
+            "name": "Tony Parker",
+            "cost": 4600
+        },
+        {
+            "average_points": 22.625,
+            "name": "Patrick Beverley",
+            "cost": 4500
+        },
+        {
+            "average_points": 22.563,
+            "name": "Matthew Dellavedova",
+            "cost": 4200
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jerryd Bayless",
+            "cost": 4000
+        },
+        {
+            "average_points": 12.521,
+            "name": "Tomas Satoransky",
+            "cost": 3800
+        },
+        {
+            "average_points": 13.333,
+            "name": "Ramon Sessions",
+            "cost": 3700
+        },
+        {
+            "average_points": 19.385,
+            "name": "Patty Mills",
+            "cost": 3700
+        },
+        {
+            "average_points": 11.232,
+            "name": "Raymond Felton",
+            "cost": 3600
+        },
+        {
+            "average_points": 15.404,
+            "name": "D.J. Augustin",
+            "cost": 3500
+        },
+        {
+            "average_points": 16.25,
+            "name": "TJ McConnell",
+            "cost": 3400
+        },
+        {
+            "average_points": 10.442,
+            "name": "Shaun Livingston",
+            "cost": 3400
+        },
+        {
+            "average_points": 13.385,
+            "name": "Cory Joseph",
+            "cost": 3400
+        },
+        {
+            "average_points": 14.25,
+            "name": "Austin Rivers",
+            "cost": 3300
+        },
+        {
+            "average_points": 16.167,
+            "name": "Andrew Harrison",
+            "cost": 3200
+        },
+        {
+            "average_points": 8.821,
+            "name": "Jason Terry",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.568,
+            "name": "CJ Watson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.667,
+            "name": "Bobby Brown",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.821,
+            "name": "Beno Udrih",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.229,
+            "name": "Tyler Ennis",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.5,
+            "name": "John Lucas III",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.271,
+            "name": "Kris Dunn",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.75,
+            "name": "Demetrius Jackson",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.462,
+            "name": "Terry Rozier",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.972,
+            "name": "Tyus Jones",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.075,
+            "name": "Trey Burke",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.536,
+            "name": "Tyler Ulis",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.25,
+            "name": "Brian Roberts",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.75,
+            "name": "Aaron Harrison",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.0,
+            "name": "Wade Baldwin",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.688,
+            "name": "Rodney Stuckey",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.295,
+            "name": "Ian Clark",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.068,
+            "name": "Aaron Brooks",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Fred VanVleet",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Delon Wright",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Devin Harris",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.469,
+            "name": "Nicolas Laprovittola",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.857,
+            "name": "Bryn Forbes",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.969,
+            "name": "Dejounte Murray",
+            "cost": 3000
+        }
+    ],
+    "sf": [
+        {
+            "average_points": 50.885,
+            "name": "Kevin Durant",
+            "cost": 9600
+        },
+        {
+            "average_points": 43.096,
+            "name": "Kawhi Leonard",
+            "cost": 8700
+        },
+        {
+            "average_points": 39.727,
+            "name": "Paul George",
+            "cost": 8000
+        },
+        {
+            "average_points": 36.479,
+            "name": "Andrew Wiggins",
+            "cost": 7400
+        },
+        {
+            "average_points": 34.604,
+            "name": "Nicolas Batum",
+            "cost": 6700
+        },
+        {
+            "average_points": 33.104,
+            "name": "Jabari Parker",
+            "cost": 6400
+        },
+        {
+            "average_points": 31.375,
+            "name": "Harrison Barnes",
+            "cost": 6400
+        },
+        {
+            "average_points": 28.018,
+            "name": "Tobias Harris",
+            "cost": 6300
+        },
+        {
+            "average_points": 33.042,
+            "name": "Otto Porter",
+            "cost": 6300
+        },
+        {
+            "average_points": 28.115,
+            "name": "Devin Booker",
+            "cost": 6200
+        },
+        {
+            "average_points": 28.846,
+            "name": "TJ Warren",
+            "cost": 5900
+        },
+        {
+            "average_points": 26.958,
+            "name": "Markieff Morris",
+            "cost": 5600
+        },
+        {
+            "average_points": 27.058,
+            "name": "Trevor Ariza",
+            "cost": 5500
+        },
+        {
+            "average_points": 27.55,
+            "name": "Jae Crowder",
+            "cost": 5500
+        },
+        {
+            "average_points": 26.778,
+            "name": "Justise Winslow",
+            "cost": 5500
+        },
+        {
+            "average_points": 24.875,
+            "name": "Marcus Smart",
+            "cost": 5300
+        },
+        {
+            "average_points": 21.25,
+            "name": "Josh Richardson",
+            "cost": 5300
+        },
+        {
+            "average_points": 25.554,
+            "name": "Marcus Morris",
+            "cost": 5200
+        },
+        {
+            "average_points": 25.386,
+            "name": "Michael Kidd-Gilchrist",
+            "cost": 5200
+        },
+        {
+            "average_points": 21.923,
+            "name": "CJ Miles",
+            "cost": 5000
+        },
+        {
+            "average_points": 23.019,
+            "name": "Aaron Gordon",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.865,
+            "name": "Dario Saric",
+            "cost": 4700
+        },
+        {
+            "average_points": 20.708,
+            "name": "James Johnson",
+            "cost": 4500
+        },
+        {
+            "average_points": 19.635,
+            "name": "Robert Covington",
+            "cost": 4300
+        },
+        {
+            "average_points": 15.357,
+            "name": "PJ Tucker",
+            "cost": 4100
+        },
+        {
+            "average_points": 20.519,
+            "name": "Vince Carter",
+            "cost": 4000
+        },
+        {
+            "average_points": 20.692,
+            "name": "James Ennis",
+            "cost": 3900
+        },
+        {
+            "average_points": 16.938,
+            "name": "Terrence Ross",
+            "cost": 3800
+        },
+        {
+            "average_points": 13.75,
+            "name": "Chandler Parsons",
+            "cost": 3700
+        },
+        {
+            "average_points": 10.083,
+            "name": "Glenn Robinson",
+            "cost": 3700
+        },
+        {
+            "average_points": 17.538,
+            "name": "Andre Iguodala",
+            "cost": 3600
+        },
+        {
+            "average_points": 17.091,
+            "name": "Tony Snell",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.205,
+            "name": "DeMarre Carroll",
+            "cost": 3500
+        },
+        {
+            "average_points": 15.231,
+            "name": "Jeff Green",
+            "cost": 3400
+        },
+        {
+            "average_points": 11.636,
+            "name": "Norman Powell",
+            "cost": 3400
+        },
+        {
+            "average_points": 17.167,
+            "name": "Justin Anderson",
+            "cost": 3400
+        },
+        {
+            "average_points": 13.583,
+            "name": "Michael Beasley",
+            "cost": 3100
+        },
+        {
+            "average_points": 10.833,
+            "name": "Mario Hezonja",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Steve Novak",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.643,
+            "name": "Damjan Rudez",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.788,
+            "name": "Corey Brewer",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.167,
+            "name": "Michael Gbinije",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.577,
+            "name": "Sam Dekker",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.808,
+            "name": "Stanley Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.1,
+            "name": "Brandon Rush",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.556,
+            "name": "Shabazz Muhammad",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.385,
+            "name": "Jaylen Brown",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.068,
+            "name": "Kelly Oubre",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Derrick Jones, Jr.",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.833,
+            "name": "Jeremy Lamb",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.917,
+            "name": "Treveon Graham",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.558,
+            "name": "Hollis Thompson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Ben Simmons",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.219,
+            "name": "Patrick McCaw",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.944,
+            "name": "Georges Niang",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.0,
+            "name": "Paul Pierce",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.75,
+            "name": "Alan Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.536,
+            "name": "Luc Mbah a Moute",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.0,
+            "name": "Wesley Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Bruno Caboclo",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.583,
+            "name": "Kyle Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.15,
+            "name": "Davis Bertans",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.364,
+            "name": "Dorian Finney-Smith",
+            "cost": 3000
+        }
+    ],
+    "sg": [
+        {
+            "average_points": 60.904,
+            "name": "James Harden",
+            "cost": 11900
+        },
+        {
+            "average_points": 44.942,
+            "name": "DeMar DeRozan",
+            "cost": 8400
+        },
+        {
+            "average_points": 37.038,
+            "name": "Avery Bradley",
+            "cost": 7000
+        },
+        {
+            "average_points": 34.604,
+            "name": "Nicolas Batum",
+            "cost": 6700
+        },
+        {
+            "average_points": 28.115,
+            "name": "Devin Booker",
+            "cost": 6200
+        },
+        {
+            "average_points": 29.462,
+            "name": "Klay Thompson",
+            "cost": 6200
+        },
+        {
+            "average_points": 28.611,
+            "name": "Bradley Beal",
+            "cost": 6000
+        },
+        {
+            "average_points": 29.523,
+            "name": "Zach LaVine",
+            "cost": 5900
+        },
+        {
+            "average_points": 25.661,
+            "name": "Monta Ellis",
+            "cost": 5600
+        },
+        {
+            "average_points": 26.519,
+            "name": "Evan Fournier",
+            "cost": 5500
+        },
+        {
+            "average_points": 19.354,
+            "name": "Seth Curry",
+            "cost": 5400
+        },
+        {
+            "average_points": 23.393,
+            "name": "Kentavious Caldwell-Pope",
+            "cost": 5300
+        },
+        {
+            "average_points": 24.875,
+            "name": "Marcus Smart",
+            "cost": 5300
+        },
+        {
+            "average_points": 21.25,
+            "name": "Josh Richardson",
+            "cost": 5300
+        },
+        {
+            "average_points": 27.75,
+            "name": "Eric Gordon",
+            "cost": 5100
+        },
+        {
+            "average_points": 25.479,
+            "name": "Dion Waiters",
+            "cost": 5100
+        },
+        {
+            "average_points": 25.125,
+            "name": "Tyler Johnson",
+            "cost": 5000
+        },
+        {
+            "average_points": 21.923,
+            "name": "CJ Miles",
+            "cost": 5000
+        },
+        {
+            "average_points": 30.361,
+            "name": "J.J. Barea",
+            "cost": 5000
+        },
+        {
+            "average_points": 22.179,
+            "name": "JJ Redick",
+            "cost": 4900
+        },
+        {
+            "average_points": 23.227,
+            "name": "Wesley Matthews",
+            "cost": 4800
+        },
+        {
+            "average_points": 21.893,
+            "name": "Brandon Knight",
+            "cost": 4700
+        },
+        {
+            "average_points": 22.563,
+            "name": "Matthew Dellavedova",
+            "cost": 4200
+        },
+        {
+            "average_points": 18.8,
+            "name": "Danny Green",
+            "cost": 4000
+        },
+        {
+            "average_points": 20.692,
+            "name": "James Ennis",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.071,
+            "name": "Jamal Crawford",
+            "cost": 3900
+        },
+        {
+            "average_points": 16.938,
+            "name": "Terrence Ross",
+            "cost": 3800
+        },
+        {
+            "average_points": 31.0,
+            "name": "Jonathan Gibson",
+            "cost": 3700
+        },
+        {
+            "average_points": 18.646,
+            "name": "Marco Belinelli",
+            "cost": 3600
+        },
+        {
+            "average_points": 11.232,
+            "name": "Raymond Felton",
+            "cost": 3600
+        },
+        {
+            "average_points": 17.091,
+            "name": "Tony Snell",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.75,
+            "name": "Gerald Henderson",
+            "cost": 3500
+        },
+        {
+            "average_points": 16.519,
+            "name": "Nik Stauskas",
+            "cost": 3400
+        },
+        {
+            "average_points": 11.636,
+            "name": "Norman Powell",
+            "cost": 3400
+        },
+        {
+            "average_points": 15.458,
+            "name": "Tony Allen",
+            "cost": 3300
+        },
+        {
+            "average_points": 16.313,
+            "name": "Manu Ginobili",
+            "cost": 3300
+        },
+        {
+            "average_points": 14.792,
+            "name": "Marcus Thornton",
+            "cost": 3200
+        },
+        {
+            "average_points": 16.167,
+            "name": "Andrew Harrison",
+            "cost": 3200
+        },
+        {
+            "average_points": 10.833,
+            "name": "Mario Hezonja",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jodie Meeks",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.833,
+            "name": "CJ Wilcox",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Khris Middleton",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.917,
+            "name": "Malcolm Brogdon",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.639,
+            "name": "Rashad Vaughn",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.875,
+            "name": "Reggie Bullock",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.55,
+            "name": "Darrun Hilliard",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.682,
+            "name": "KJ McDaniels",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.1,
+            "name": "Brandon Rush",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.556,
+            "name": "Shabazz Muhammad",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.3,
+            "name": "Gerald Green",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.167,
+            "name": "James Young",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.068,
+            "name": "Kelly Oubre",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.308,
+            "name": "Leandro Barbosa",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.625,
+            "name": "John Jenkins",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.542,
+            "name": "Sheldon McClellan",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.25,
+            "name": "Danuel House",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.833,
+            "name": "Jeremy Lamb",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.167,
+            "name": "Troy Daniels",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.563,
+            "name": "Troy Williams",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.558,
+            "name": "Hollis Thompson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Wayne Ellington",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.341,
+            "name": "Rodney McGruder",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.667,
+            "name": "Timothe Luwawu-Cabarrot",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.688,
+            "name": "Rodney Stuckey",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.295,
+            "name": "Ian Clark",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.219,
+            "name": "Patrick McCaw",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.3,
+            "name": "Joe Young",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.583,
+            "name": "Kyle Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.846,
+            "name": "Jonathon Simmons",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.7,
+            "name": "Nicolas Brussino",
+            "cost": 3000
+        }
+    ],
+    "util": [
+        {
+            "average_points": 60.904,
+            "name": "James Harden",
+            "cost": 11900
+        },
+        {
+            "average_points": 50.885,
+            "name": "Kevin Durant",
+            "cost": 9600
+        },
+        {
+            "average_points": 46.792,
+            "name": "Hassan Whiteside",
+            "cost": 9300
+        },
+        {
+            "average_points": 43.788,
+            "name": "Stephen Curry",
+            "cost": 9200
+        },
+        {
+            "average_points": 45.05,
+            "name": "John Wall",
+            "cost": 9000
+        },
+        {
+            "average_points": 47.0,
+            "name": "Giannis Antetokounmpo",
+            "cost": 8800
+        },
+        {
+            "average_points": 43.096,
+            "name": "Kawhi Leonard",
+            "cost": 8700
+        },
+        {
+            "average_points": 44.375,
+            "name": "Chris Paul",
+            "cost": 8600
+        },
+        {
+            "average_points": 43.464,
+            "name": "Blake Griffin",
+            "cost": 8500
+        },
+        {
+            "average_points": 44.942,
+            "name": "DeMar DeRozan",
+            "cost": 8400
+        },
+        {
+            "average_points": 43.604,
+            "name": "Kemba Walker",
+            "cost": 8200
+        },
+        {
+            "average_points": 41.481,
+            "name": "Kyle Lowry",
+            "cost": 8100
+        },
+        {
+            "average_points": 40.333,
+            "name": "Karl-Anthony Towns",
+            "cost": 8000
+        },
+        {
+            "average_points": 39.727,
+            "name": "Paul George",
+            "cost": 8000
+        },
+        {
+            "average_points": 41.615,
+            "name": "Isaiah Thomas",
+            "cost": 7900
+        },
+        {
+            "average_points": 38.135,
+            "name": "Andre Drummond",
+            "cost": 7800
+        },
+        {
+            "average_points": 40.385,
+            "name": "Draymond Green",
+            "cost": 7700
+        },
+        {
+            "average_points": 36.479,
+            "name": "Andrew Wiggins",
+            "cost": 7400
+        },
+        {
+            "average_points": 37.038,
+            "name": "Avery Bradley",
+            "cost": 7000
+        },
+        {
+            "average_points": 34.161,
+            "name": "Jeff Teague",
+            "cost": 6900
+        },
+        {
+            "average_points": 32.911,
+            "name": "Eric Bledsoe",
+            "cost": 6800
+        },
+        {
+            "average_points": 34.604,
+            "name": "Nicolas Batum",
+            "cost": 6700
+        },
+        {
+            "average_points": 32.563,
+            "name": "LaMarcus Aldridge",
+            "cost": 6700
+        },
+        {
+            "average_points": 32.083,
+            "name": "Goran Dragic",
+            "cost": 6600
+        },
+        {
+            "average_points": 35.313,
+            "name": "Al Horford",
+            "cost": 6500
+        },
+        {
+            "average_points": 31.357,
+            "name": "Myles Turner",
+            "cost": 6500
+        },
+        {
+            "average_points": 33.104,
+            "name": "Jabari Parker",
+            "cost": 6400
+        },
+        {
+            "average_points": 35.667,
+            "name": "Mike Conley",
+            "cost": 6400
+        },
+        {
+            "average_points": 34.063,
+            "name": "Marc Gasol",
+            "cost": 6400
+        },
+        {
+            "average_points": 33.556,
+            "name": "Joel Embiid",
+            "cost": 6400
+        },
+        {
+            "average_points": 30.339,
+            "name": "DeAndre Jordan",
+            "cost": 6400
+        },
+        {
+            "average_points": 31.375,
+            "name": "Harrison Barnes",
+            "cost": 6400
+        },
+        {
+            "average_points": 27.846,
+            "name": "Pau Gasol",
+            "cost": 6400
+        },
+        {
+            "average_points": 28.018,
+            "name": "Tobias Harris",
+            "cost": 6300
+        },
+        {
+            "average_points": 33.042,
+            "name": "Otto Porter",
+            "cost": 6300
+        },
+        {
+            "average_points": 28.115,
+            "name": "Devin Booker",
+            "cost": 6200
+        },
+        {
+            "average_points": 29.462,
+            "name": "Klay Thompson",
+            "cost": 6200
+        },
+        {
+            "average_points": 33.042,
+            "name": "Marcin Gortat",
+            "cost": 6100
+        },
+        {
+            "average_points": 0.0,
+            "name": "Reggie Jackson",
+            "cost": 6000
+        },
+        {
+            "average_points": 28.611,
+            "name": "Bradley Beal",
+            "cost": 6000
+        },
+        {
+            "average_points": 27.404,
+            "name": "Clint Capela",
+            "cost": 5900
+        },
+        {
+            "average_points": 29.523,
+            "name": "Zach LaVine",
+            "cost": 5900
+        },
+        {
+            "average_points": 28.846,
+            "name": "TJ Warren",
+            "cost": 5900
+        },
+        {
+            "average_points": 27.542,
+            "name": "Gorgui Dieng",
+            "cost": 5800
+        },
+        {
+            "average_points": 30.596,
+            "name": "Nikola Vucevic",
+            "cost": 5700
+        },
+        {
+            "average_points": 23.75,
+            "name": "Ricky Rubio",
+            "cost": 5700
+        },
+        {
+            "average_points": 26.25,
+            "name": "Serge Ibaka",
+            "cost": 5600
+        },
+        {
+            "average_points": 25.518,
+            "name": "Ish Smith",
+            "cost": 5600
+        },
+        {
+            "average_points": 26.958,
+            "name": "Markieff Morris",
+            "cost": 5600
+        },
+        {
+            "average_points": 25.661,
+            "name": "Monta Ellis",
+            "cost": 5600
+        },
+        {
+            "average_points": 30.386,
+            "name": "Jonas Valanciunas",
+            "cost": 5600
+        },
+        {
+            "average_points": 26.519,
+            "name": "Evan Fournier",
+            "cost": 5500
+        },
+        {
+            "average_points": 27.058,
+            "name": "Trevor Ariza",
+            "cost": 5500
+        },
+        {
+            "average_points": 27.55,
+            "name": "Jae Crowder",
+            "cost": 5500
+        },
+        {
+            "average_points": 26.778,
+            "name": "Justise Winslow",
+            "cost": 5500
+        },
+        {
+            "average_points": 25.661,
+            "name": "Thaddeus Young",
+            "cost": 5500
+        },
+        {
+            "average_points": 26.712,
+            "name": "Elfrid Payton",
+            "cost": 5400
+        },
+        {
+            "average_points": 19.354,
+            "name": "Seth Curry",
+            "cost": 5400
+        },
+        {
+            "average_points": 23.393,
+            "name": "Kentavious Caldwell-Pope",
+            "cost": 5300
+        },
+        {
+            "average_points": 24.875,
+            "name": "Marcus Smart",
+            "cost": 5300
+        },
+        {
+            "average_points": 21.25,
+            "name": "Josh Richardson",
+            "cost": 5300
+        },
+        {
+            "average_points": 26.0,
+            "name": "Dirk Nowitzki",
+            "cost": 5300
+        },
+        {
+            "average_points": 25.554,
+            "name": "Marcus Morris",
+            "cost": 5200
+        },
+        {
+            "average_points": 25.386,
+            "name": "Michael Kidd-Gilchrist",
+            "cost": 5200
+        },
+        {
+            "average_points": 27.75,
+            "name": "Eric Gordon",
+            "cost": 5100
+        },
+        {
+            "average_points": 25.479,
+            "name": "Dion Waiters",
+            "cost": 5100
+        },
+        {
+            "average_points": 23.071,
+            "name": "Alex Len",
+            "cost": 5000
+        },
+        {
+            "average_points": 26.615,
+            "name": "Zach Randolph",
+            "cost": 5000
+        },
+        {
+            "average_points": 25.125,
+            "name": "Tyler Johnson",
+            "cost": 5000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Nerlens Noel",
+            "cost": 5000
+        },
+        {
+            "average_points": 21.923,
+            "name": "CJ Miles",
+            "cost": 5000
+        },
+        {
+            "average_points": 30.361,
+            "name": "J.J. Barea",
+            "cost": 5000
+        },
+        {
+            "average_points": 23.019,
+            "name": "Aaron Gordon",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.788,
+            "name": "Ryan Anderson",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.821,
+            "name": "Jon Leuer",
+            "cost": 4900
+        },
+        {
+            "average_points": 22.179,
+            "name": "JJ Redick",
+            "cost": 4900
+        },
+        {
+            "average_points": 23.542,
+            "name": "Deron Williams",
+            "cost": 4900
+        },
+        {
+            "average_points": 24.942,
+            "name": "Sergio Rodriguez",
+            "cost": 4800
+        },
+        {
+            "average_points": 23.227,
+            "name": "Wesley Matthews",
+            "cost": 4800
+        },
+        {
+            "average_points": 21.893,
+            "name": "Brandon Knight",
+            "cost": 4700
+        },
+        {
+            "average_points": 24.438,
+            "name": "Tyson Chandler",
+            "cost": 4700
+        },
+        {
+            "average_points": 23.896,
+            "name": "Marvin Williams",
+            "cost": 4700
+        },
+        {
+            "average_points": 22.865,
+            "name": "Dario Saric",
+            "cost": 4700
+        },
+        {
+            "average_points": 20.028,
+            "name": "Tony Parker",
+            "cost": 4600
+        },
+        {
+            "average_points": 22.625,
+            "name": "Patrick Beverley",
+            "cost": 4500
+        },
+        {
+            "average_points": 20.708,
+            "name": "James Johnson",
+            "cost": 4500
+        },
+        {
+            "average_points": 21.9,
+            "name": "Frank Kaminsky",
+            "cost": 4400
+        },
+        {
+            "average_points": 18.583,
+            "name": "Jahlil Okafor",
+            "cost": 4400
+        },
+        {
+            "average_points": 19.635,
+            "name": "Robert Covington",
+            "cost": 4300
+        },
+        {
+            "average_points": 22.563,
+            "name": "Matthew Dellavedova",
+            "cost": 4200
+        },
+        {
+            "average_points": 19.729,
+            "name": "Bismack Biyombo",
+            "cost": 4100
+        },
+        {
+            "average_points": 15.357,
+            "name": "PJ Tucker",
+            "cost": 4100
+        },
+        {
+            "average_points": 19.827,
+            "name": "Ersan Ilyasova",
+            "cost": 4100
+        },
+        {
+            "average_points": 17.25,
+            "name": "Kelly Olynyk",
+            "cost": 4000
+        },
+        {
+            "average_points": 19.125,
+            "name": "Jared Dudley",
+            "cost": 4000
+        },
+        {
+            "average_points": 20.519,
+            "name": "Vince Carter",
+            "cost": 4000
+        },
+        {
+            "average_points": 22.75,
+            "name": "Cody Zeller",
+            "cost": 4000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jerryd Bayless",
+            "cost": 4000
+        },
+        {
+            "average_points": 18.8,
+            "name": "Danny Green",
+            "cost": 4000
+        },
+        {
+            "average_points": 18.288,
+            "name": "Amir Johnson",
+            "cost": 3900
+        },
+        {
+            "average_points": 9.646,
+            "name": "Cole Aldrich",
+            "cost": 3900
+        },
+        {
+            "average_points": 17.95,
+            "name": "Alan Williams",
+            "cost": 3900
+        },
+        {
+            "average_points": 20.692,
+            "name": "James Ennis",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.545,
+            "name": "Spencer Hawes",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.071,
+            "name": "Jamal Crawford",
+            "cost": 3900
+        },
+        {
+            "average_points": 18.286,
+            "name": "Lucas Nogueira",
+            "cost": 3900
+        },
+        {
+            "average_points": 20.925,
+            "name": "Andrew Bogut",
+            "cost": 3900
+        },
+        {
+            "average_points": 24.364,
+            "name": "Greg Monroe",
+            "cost": 3800
+        },
+        {
+            "average_points": 12.054,
+            "name": "Aron Baynes",
+            "cost": 3800
+        },
+        {
+            "average_points": 12.521,
+            "name": "Tomas Satoransky",
+            "cost": 3800
+        },
+        {
+            "average_points": 19.423,
+            "name": "JaMychal Green",
+            "cost": 3800
+        },
+        {
+            "average_points": 16.938,
+            "name": "Terrence Ross",
+            "cost": 3800
+        },
+        {
+            "average_points": 17.411,
+            "name": "Marreese Speights",
+            "cost": 3800
+        },
+        {
+            "average_points": 15.019,
+            "name": "David Lee",
+            "cost": 3800
+        },
+        {
+            "average_points": 14.955,
+            "name": "John Henson",
+            "cost": 3700
+        },
+        {
+            "average_points": 13.333,
+            "name": "Ramon Sessions",
+            "cost": 3700
+        },
+        {
+            "average_points": 13.75,
+            "name": "Chandler Parsons",
+            "cost": 3700
+        },
+        {
+            "average_points": 10.083,
+            "name": "Glenn Robinson",
+            "cost": 3700
+        },
+        {
+            "average_points": 19.192,
+            "name": "Patrick Patterson",
+            "cost": 3700
+        },
+        {
+            "average_points": 19.385,
+            "name": "Patty Mills",
+            "cost": 3700
+        },
+        {
+            "average_points": 31.0,
+            "name": "Jonathan Gibson",
+            "cost": 3700
+        },
+        {
+            "average_points": 16.313,
+            "name": "Dwight Powell",
+            "cost": 3700
+        },
+        {
+            "average_points": 18.646,
+            "name": "Marco Belinelli",
+            "cost": 3600
+        },
+        {
+            "average_points": 8.825,
+            "name": "Willie Reed",
+            "cost": 3600
+        },
+        {
+            "average_points": 17.538,
+            "name": "Andre Iguodala",
+            "cost": 3600
+        },
+        {
+            "average_points": 11.232,
+            "name": "Raymond Felton",
+            "cost": 3600
+        },
+        {
+            "average_points": 13.773,
+            "name": "Dewayne Dedmon",
+            "cost": 3600
+        },
+        {
+            "average_points": 15.404,
+            "name": "D.J. Augustin",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.091,
+            "name": "Tony Snell",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.75,
+            "name": "Gerald Henderson",
+            "cost": 3500
+        },
+        {
+            "average_points": 17.205,
+            "name": "DeMarre Carroll",
+            "cost": 3500
+        },
+        {
+            "average_points": 15.231,
+            "name": "Jeff Green",
+            "cost": 3400
+        },
+        {
+            "average_points": 16.25,
+            "name": "TJ McConnell",
+            "cost": 3400
+        },
+        {
+            "average_points": 16.519,
+            "name": "Nik Stauskas",
+            "cost": 3400
+        },
+        {
+            "average_points": 15.875,
+            "name": "Richaun Holmes",
+            "cost": 3400
+        },
+        {
+            "average_points": 10.442,
+            "name": "Shaun Livingston",
+            "cost": 3400
+        },
+        {
+            "average_points": 17.096,
+            "name": "Zaza Pachulia",
+            "cost": 3400
+        },
+        {
+            "average_points": 14.054,
+            "name": "Al Jefferson",
+            "cost": 3400
+        },
+        {
+            "average_points": 13.385,
+            "name": "Cory Joseph",
+            "cost": 3400
+        },
+        {
+            "average_points": 11.636,
+            "name": "Norman Powell",
+            "cost": 3400
+        },
+        {
+            "average_points": 17.167,
+            "name": "Justin Anderson",
+            "cost": 3400
+        },
+        {
+            "average_points": 14.75,
+            "name": "Montrezl Harrell",
+            "cost": 3300
+        },
+        {
+            "average_points": 15.458,
+            "name": "Tony Allen",
+            "cost": 3300
+        },
+        {
+            "average_points": 14.25,
+            "name": "Austin Rivers",
+            "cost": 3300
+        },
+        {
+            "average_points": 13.654,
+            "name": "Pascal Siakam",
+            "cost": 3300
+        },
+        {
+            "average_points": 16.313,
+            "name": "Manu Ginobili",
+            "cost": 3300
+        },
+        {
+            "average_points": 14.729,
+            "name": "Nemanja Bjelica",
+            "cost": 3200
+        },
+        {
+            "average_points": 14.792,
+            "name": "Marcus Thornton",
+            "cost": 3200
+        },
+        {
+            "average_points": 16.167,
+            "name": "Andrew Harrison",
+            "cost": 3200
+        },
+        {
+            "average_points": 13.583,
+            "name": "Michael Beasley",
+            "cost": 3100
+        },
+        {
+            "average_points": 16.386,
+            "name": "Nene",
+            "cost": 3100
+        },
+        {
+            "average_points": 13.464,
+            "name": "Roy Hibbert",
+            "cost": 3100
+        },
+        {
+            "average_points": 10.75,
+            "name": "Derrick Williams",
+            "cost": 3100
+        },
+        {
+            "average_points": 8.821,
+            "name": "Jason Terry",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.568,
+            "name": "CJ Watson",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.833,
+            "name": "Mario Hezonja",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jodie Meeks",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.833,
+            "name": "CJ Wilcox",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Khris Middleton",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.917,
+            "name": "Malcolm Brogdon",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.639,
+            "name": "Rashad Vaughn",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Steve Novak",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.643,
+            "name": "Damjan Rudez",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.625,
+            "name": "Arinze Onuaku",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.604,
+            "name": "Mirza Teletovic",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "Stephen Zimmerman",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.688,
+            "name": "Thon Maker",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.604,
+            "name": "Miles Plumlee",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.667,
+            "name": "Bobby Brown",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.821,
+            "name": "Beno Udrih",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.229,
+            "name": "Tyler Ennis",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.875,
+            "name": "Reggie Bullock",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.55,
+            "name": "Darrun Hilliard",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.682,
+            "name": "KJ McDaniels",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.788,
+            "name": "Corey Brewer",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.167,
+            "name": "Michael Gbinije",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.577,
+            "name": "Sam Dekker",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.808,
+            "name": "Stanley Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.5,
+            "name": "Kyle Wiltjer",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.2,
+            "name": "Henry Ellenson",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.792,
+            "name": "Boban Marjanovic",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Chinanu Onuaku",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.5,
+            "name": "John Lucas III",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.271,
+            "name": "Kris Dunn",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.75,
+            "name": "Demetrius Jackson",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.462,
+            "name": "Terry Rozier",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.972,
+            "name": "Tyus Jones",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.1,
+            "name": "Brandon Rush",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.556,
+            "name": "Shabazz Muhammad",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.3,
+            "name": "Gerald Green",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.167,
+            "name": "James Young",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.385,
+            "name": "Jaylen Brown",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.25,
+            "name": "Jordan Hill",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.635,
+            "name": "Jonas Jerebko",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.792,
+            "name": "Adreian Payne",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.0,
+            "name": "Jordan Mickey",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Nikola Pekovic",
+            "cost": 3000
+        },
+        {
+            "average_points": 16.077,
+            "name": "Tyler Zeller",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.075,
+            "name": "Trey Burke",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.536,
+            "name": "Tyler Ulis",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.068,
+            "name": "Kelly Oubre",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.308,
+            "name": "Leandro Barbosa",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.625,
+            "name": "John Jenkins",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.542,
+            "name": "Sheldon McClellan",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.25,
+            "name": "Danuel House",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Derrick Jones, Jr.",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.25,
+            "name": "Jason Smith",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.361,
+            "name": "Andrew Nicholson",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.5,
+            "name": "Marquese Chriss",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.3,
+            "name": "Dragan Bender",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Ian Mahinmi",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.75,
+            "name": "Daniel Ochefu",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.25,
+            "name": "Brian Roberts",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.75,
+            "name": "Aaron Harrison",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.0,
+            "name": "Wade Baldwin",
+            "cost": 3000
+        },
+        {
+            "average_points": 14.833,
+            "name": "Jeremy Lamb",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.167,
+            "name": "Troy Daniels",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.563,
+            "name": "Troy Williams",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.917,
+            "name": "Treveon Graham",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.521,
+            "name": "Jarell Martin",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.5,
+            "name": "Christian Wood",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.583,
+            "name": "Deyonta Davis",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Brandan Wright",
+            "cost": 3000
+        },
+        {
+            "average_points": 15.558,
+            "name": "Hollis Thompson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Wayne Ellington",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.341,
+            "name": "Rodney McGruder",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.667,
+            "name": "Timothe Luwawu-Cabarrot",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Ben Simmons",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Chris Bosh",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "Udonis Haslem",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.563,
+            "name": "Luke Babbitt",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.333,
+            "name": "Josh McRoberts",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.688,
+            "name": "Rodney Stuckey",
+            "cost": 3000
+        },
+        {
+            "average_points": 9.295,
+            "name": "Ian Clark",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.068,
+            "name": "Aaron Brooks",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.219,
+            "name": "Patrick McCaw",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.3,
+            "name": "Joe Young",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.944,
+            "name": "Georges Niang",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.731,
+            "name": "David West",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.732,
+            "name": "Lavoy Allen",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.15,
+            "name": "James Michael McAdoo",
+            "cost": 3000
+        },
+        {
+            "average_points": 2.75,
+            "name": "Rakeem Christmas",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.364,
+            "name": "Kevon Looney",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.583,
+            "name": "Anderson Varejao",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.083,
+            "name": "JaVale McGee",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.85,
+            "name": "Kevin Seraphin",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Damian Jones",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Fred VanVleet",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Delon Wright",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.0,
+            "name": "Paul Pierce",
+            "cost": 3000
+        },
+        {
+            "average_points": 5.75,
+            "name": "Alan Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 12.536,
+            "name": "Luc Mbah a Moute",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.0,
+            "name": "Wesley Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Bruno Caboclo",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.313,
+            "name": "Brandon Bass",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Brice Johnson",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Jared Sullinger",
+            "cost": 3000
+        },
+        {
+            "average_points": 11.719,
+            "name": "Jakob Poeltl",
+            "cost": 3000
+        },
+        {
+            "average_points": 3.75,
+            "name": "Diamond Stone",
+            "cost": 3000
+        },
+        {
+            "average_points": 0.0,
+            "name": "Devin Harris",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.469,
+            "name": "Nicolas Laprovittola",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.857,
+            "name": "Bryn Forbes",
+            "cost": 3000
+        },
+        {
+            "average_points": 1.969,
+            "name": "Dejounte Murray",
+            "cost": 3000
+        },
+        {
+            "average_points": 10.583,
+            "name": "Kyle Anderson",
+            "cost": 3000
+        },
+        {
+            "average_points": 13.846,
+            "name": "Jonathon Simmons",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.7,
+            "name": "Nicolas Brussino",
+            "cost": 3000
+        },
+        {
+            "average_points": 6.15,
+            "name": "Davis Bertans",
+            "cost": 3000
+        },
+        {
+            "average_points": 7.364,
+            "name": "Dorian Finney-Smith",
+            "cost": 3000
+        },
+        {
+            "average_points": 8.528,
+            "name": "Salah Mejri",
+            "cost": 3000
+        },
+        {
+            "average_points": 4.25,
+            "name": "AJ Hammons",
+            "cost": 3000
+        }
+    ]
+}

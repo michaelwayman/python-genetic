@@ -4,7 +4,12 @@ from abc import ABCMeta, abstractmethod
 class Evolvable(object):
     """Abstract Base Class to create "evolvable" objects
 
-    Am `Evolvable` represents an object that has "genes".
+    An `Evolvable` represents an object that has a specific set of "genes" and "alleles".
+    A "gene" represents a broader idea, like "hair color", whereas an "allele" is a particular
+    mutation of the hair color gene, giving us: blondes, brunettes, etc.
+
+    An `Evolvable`s value to us, is that in its complete state, represents a solution to a particular problem.
+
     The idea of the Evolvable class is that multiple instances
     can be combined to create new Evolvables.
     """

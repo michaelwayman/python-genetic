@@ -1,25 +1,22 @@
-from random import random
+import random
 
 
 class Evolve(object):
-    """Combines `Evolvable`s to create new and unique Evolvables.
+    """Evolve takes a `gene_pool` and an `Evolvable` type, and simulates natural selection.
 
-    This class takes a `gene_pool` and will create Evolvables from the gene_pool.
-    
-    The process is based on the theory of evolution.
+    Capable of solving very complex np-complete optimization problems in a couple minutes that
+    would otherwise take days or weeks or months to solve.
     """
 
     def __init__(self, gene_pool, evolvable_class):
-        """Initialize the `Evolve` class with a gene pool
-
+        """
         Args:
-            gene_pool: A dictionary with "genes" for keys, and a list of "gene_expressions" as the value.
-            evolvable_class: The type of evolvables we want to create
+            gene_pool: A dictionary with "genes" for keys, and a list of "alleles" as the value.
+            evolvable_class: The type of evolvables we are going to evolve
 
         Note:
             `self.best` an aggregate of the best `Evolvable`s from every generation
-            `self.population` represents the current generation and is assigned after every iteration in `run()`
-            `self.best` is updated after every iteration in `run()`
+            `self.population` represents the *current* population
         """
         self.gene_pool = gene_pool
         self.population = []
@@ -27,15 +24,15 @@ class Evolve(object):
         self.evolvable_class = evolvable_class
 
     def run(self, n=1000, n_best=5, n_children=4):
-        """Starts and runs the evolution process.
+        """Starts and runs the natural selection process.
 
         1. Create the initial population
-        2. Select the 'most fit' from the population and "breed" them, updating the current population
-        3. Repeat #2 while keeping track of the "best of all time"
+        2. Select the 'most fit' from the population and "breed" them, creating the next generation
+        3. Repeat #2 `n` times.
 
         Args:
             n: the number of generations
-            n_best: keep track of the top n_best evolvables of all time
+            n_best: keep track of the n_best evolvables of all time
             n_children: the number of children each group of parents should produce
         """
         if not self.population:
@@ -49,7 +46,7 @@ class Evolve(object):
 
     def set_best(self, n_best=5):
         """
-        Updates the "best of all time" list using the current population.
+        Updates the "best of all time" (if needed).
         """
         unique = set()
         values = self.best + self.population
@@ -81,11 +78,11 @@ class Evolve(object):
         """
         parent = self.evolvable_class(self.gene_pool.keys())
         while True:
-            for gene, expression in self.gene_pool.iteritems():
+            for gene, allele in self.gene_pool.iteritems():
                 while True:
-                    random_gene_expression = random.choice(expression)
-                    if random_gene_expression not in parent.genes.values():
-                        parent.genes[gene] = random_gene_expression
+                    random_allele = random.choice(allele)
+                    if random_allele not in parent.genes.values():
+                        parent.genes[gene] = random_allele
                         break
             if parent.can_survive():
                 parent.cache = True
@@ -94,17 +91,17 @@ class Evolve(object):
     def cross_over(self, parents):
         """Combines 1 or more parents into a single child.
 
-        For each gene in the child this function will choose the expression from a randomly selected parent
-        If no such expression is possible then an expression will be selected from the 'gene_pool'
+        For each gene in the child this function will choose the allele from a random parent
+        If no allele from a parent "fits" the child, then use an allele from the 'gene_pool'
 
         Args:
             parents (Evolvable): sequence of `Evolvable`s
 
         Note:
-            If no expressions from the `gene_pool` is used then `mutate()` is called on the child.
+            If no alleles from the `gene_pool` are used then we call `mutate()`on the child.
 
         Returns:
-            Evolvable created by combining the parents and inserting a mutation from the `gene_pool`.
+            Evolvable created by combining the parents and inserting a random mutation from the `gene_pool`.
         """
         child = self.evolvable_class(self.gene_pool.keys())
 
@@ -113,14 +110,14 @@ class Evolve(object):
 
             for gene in self.gene_pool.keys():
                 random_parent = random.choice(parents)
-                random_gene_expression = random_parent.genes[gene]
+                random_allele = random_parent.genes[gene]
 
                 while True:
-                    if random_gene_expression not in child.genes.values():
-                        child.genes[gene] = random_gene_expression
+                    if random_allele not in child.genes.values():
+                        child.genes[gene] = random_allele
                         break
                     mutated = True
-                    random_gene_expression = random.choice(self.gene_pool[gene])
+                    random_allele = random.choice(self.gene_pool[gene])
             if not mutated:
                 self.mutate(child)
 
@@ -143,7 +140,10 @@ class Evolve(object):
         for i in range(swap):
             while True:
                 random_gene = random.choice(self.gene_pool.keys())
-                random_gene_expression = random.choice(self.gene_pool[random_gene])
-                if random_gene_expression not in evolvable.genes.values():
-                    evolvable.genes[random_gene] = random_gene_expression
+                random_allele = random.choice(self.gene_pool[random_gene])
+                if random_allele not in evolvable.genes.values():
+                    evolvable.genes[random_gene] = random_allele
                     break
+
+    def __str__(self):
+        return '\n\n'.join(str(x) for x in self.best)

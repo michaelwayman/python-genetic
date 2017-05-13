@@ -1,45 +1,57 @@
+import json
+import os
+import sys
 
-# Sloppily add genetic classes to our path so we can import it
+
 sys.path.insert(0, os.path.abspath('../genetic'))
-from genetic import Evolvable
+from evolve import Evolve
+from evolvable_nba_team import EvolvableNBATeam
 
 
-class EvolvableLineup(Evolvable):
-    """
-     An example `Evolvable` based on fantasy basketball that is suited for a draftkings basketball lineup.
-     """
+class Colors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
-    @property
-    def expected_points(self):
-        """The number of draftking points this lineup is expected to produce"""
-        if not self.cache_properties:
-            self._cache['expected_points'] = sum(
-                [player.expected_points for player in self.genes.values() if player])
-        return self._cache['expected_points']
 
-    @property
-    def cost(self):
-        """How much does this lineup cost in terms of salary"""
-        if not self.cache_properties:
-            self._cache['cost'] = sum(
-                [player.salary for player in self.genes.values() if player])
-        return self._cache['cost']
+def get_gene_pool():
+    file_dir = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(file_dir, 'gene_pool.json')
 
-    @property
-    def unique_str(self):
-        if not self.cache_properties:
-            players = self.genes.values()
-            players.sort(key=lambda k: str(k.name))
-            self._cache['unique_str'] = ''.join(str(p.name) for p in players)
-        return self._cache['unique_str']
+    with open(path) as f:
+        return json.loads(f.read())
 
-    def can_survive(self):
-        """Our lineups cannot survive if they cost more than 50,000"""
-        return self.cost <= 50000
 
-    def fitness_level(self):
-        """The more draftking points the better the lineup"""
-        return self.expected_points
+def print_gene_pool_info(gene_pool):
+    number_sequences = reduce(lambda x, y: x * y, map(lambda i: len(i), gene_pool.values()))
+    output = (
+        '\n{}Gene pool information:{}\n'
+        '  {}{}{} {}Unique Alleles{}\n'
+        '  {}{}{} {}Unique Genes{}\n'
+        '  About {}{}{} ({:.2E}) possible DNA sequences\n'
+    ).format(
+        Colors.UNDERLINE, Colors.ENDC,
+        Colors.BOLD, sum(len(x) for x in gene_pool.values()), Colors.ENDC, Colors.OKBLUE, Colors.ENDC,
+        Colors.BOLD, len(gene_pool), Colors.ENDC, Colors.OKGREEN, Colors.ENDC,
+        Colors.HEADER, number_sequences, Colors.ENDC, number_sequences,
+    )
+    print(output)
 
-    def unique(self):
-        return self.unique_str
+
+if __name__ == '__main__':
+    gene_pool = get_gene_pool()
+    print_gene_pool_info(gene_pool)
+
+    n_generations = 50000
+    n_best = 2
+
+    e = Evolve(gene_pool, EvolvableNBATeam)
+    e.run(n=n_generations, n_best=n_best)
+
+    print('\n\nThe {} best DNA sequences after {} generations:\n'.format(n_best, n_generations))
+    print(e)
