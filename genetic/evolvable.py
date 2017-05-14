@@ -22,11 +22,14 @@ class Evolvable(object):
 
         Note:
             - Subclasses of this ABC should call super on this method.
-            - please see the code for how to use `_cache` and `cache_properties`
+            - `_cache` and `cache_attrs` are for performance optimizations.
         """
-        self._cache = {}
-        self.cache_properties = False
         self.genes = {gene: None for gene in genes}
+
+        # Once an instance of `Evolvable` is complete and not going to change, the `Evolve` class
+        # will set `cache_attrs` to True. We can make use of this for better performance.
+        self.cache_attrs = False
+        self._cache = {}
 
     @abstractmethod
     def can_survive(self):
@@ -46,10 +49,16 @@ class Evolvable(object):
         """
         raise NotImplemented
 
-    @abstractmethod
     def unique(self):
         """
+        Note:
+            Depending on what your genes look like you might want override this method for something more efficient
+
         Returns:
             some hashable that can uniquely identify the particular sequence of genes (to avoid creating duplicates)
         """
-        raise NotImplemented
+        if self.cache_attrs:
+            if 'unique' not in self._cache:
+                self._cache['unique'] = str(sorted(self.genes.items()))
+            return self._cache['unique']
+        return str(sorted(self.genes.items()))

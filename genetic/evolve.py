@@ -23,7 +23,7 @@ class Evolve(object):
         self.best = []
         self.evolvable_class = evolvable_class
 
-    def run(self, n=1000, n_best=5, n_children=4):
+    def run(self, n=1000, n_best=5, n_children=4, cb_every=None, cb=None):
         """Starts and runs the natural selection process.
 
         1. Create the initial population
@@ -35,11 +35,16 @@ class Evolve(object):
             n_best: keep track of the n_best evolvables of all time
             n_children: the number of children each group of parents should produce
         """
+        if any([cb, cb_every]) and not all([cb, cb_every]):
+            raise ValueError('If cb or cb_every is specified then both have to be specified')
+
         if not self.population:
             self.population = [self.generate_random_parent() for _ in range(n_children)]
             self.set_best()
 
         for i in xrange(n):
+            if cb and i % cb_every == 0:
+                cb(self, i)
             parents = self.best_parents()
             self.population = [self.cross_over(parents) for _ in range(n_children)]
             self.set_best(n_best=n_best)
@@ -85,7 +90,7 @@ class Evolve(object):
                         parent.genes[gene] = random_allele
                         break
             if parent.can_survive():
-                parent.cache = True
+                parent.cache_attrs = True
                 return parent
 
     def cross_over(self, parents):
@@ -122,7 +127,7 @@ class Evolve(object):
                 self.mutate(child)
 
             if child.can_survive():
-                child.cache = True
+                child.cache_attrs = True
                 return child
 
     def mutate(self, evolvable, n1=1, n2=2):
@@ -144,6 +149,3 @@ class Evolve(object):
                 if random_allele not in evolvable.genes.values():
                     evolvable.genes[random_gene] = random_allele
                     break
-
-    def __str__(self):
-        return '\n\n'.join(str(x) for x in self.best)
